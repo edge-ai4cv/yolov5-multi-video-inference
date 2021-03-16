@@ -17,8 +17,8 @@
 2. Build "yolov5-multi-video"
 
 ```
-git clone 
-cd 
+git clone https://github.com/edge-ai4cv/yolov5-multi-video.git
+cd yolov5-multi-video
 mkdir build
 cd build
 cmake ..
